@@ -1,4 +1,4 @@
-## next-ecommerce-coolshop via commerce.js and next.js
+## next-ecommerce-coolshop via graphql and apollo client and prisma
 
 - npx create-next-app ./
 

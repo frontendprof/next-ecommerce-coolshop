@@ -5,7 +5,10 @@ import styles from '../styles/Home.module.css';
 export default function Home() {
   return (
     <>
-      <Page />
+      <Page>
+        <p>Hola Mundo</p>
+        <code>var, let, const</code>
+      </Page>
     </>
   );
 }
